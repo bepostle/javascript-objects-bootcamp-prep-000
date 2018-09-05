@@ -1,4 +1,4 @@
-var meals = {};
+/* var meals = {};
 
 var meals = new Object({ breakfast:'oatmeal' });
 
@@ -36,5 +36,6 @@ updateObjectWithKeyAndValue(recipe, 'chocolate', '1 cup')
 function updateObjectWithObject(targetObject, updatesObject) {
   return Object.assign({}, targetObject, updatesObject)
 }
+*/
 
-
+var playlist = {beatles: 'hey jude', stones: 'brown sugar'};
