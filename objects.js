@@ -44,6 +44,7 @@ function updatePlaylist (playlist, artist, song) {
   playlist[artist] = song;
   return playlist;
 }
+console.log(playlist);
 
 function removeFromPlaylist (playlist, artist) {
   delete playlist.artist;
